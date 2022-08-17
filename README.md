@@ -195,6 +195,13 @@ List of resources I find helpful and would like to give credit to. I've included
 * [problem with finding npm while trying to install django-tailwind with python venv](https://www.reddit.com/r/djangolearning/comments/s7chy0/problem_with_finding_npm_while_trying_to_install/)
 * [Global npm install location on windows?](https://stackoverflow.com/questions/33819757/global-npm-install-location-on-windows)
 * [Configuration of the path to the npm executable](https://django-tailwind.readthedocs.io/en/latest/installation.html#configuration-of-the-path-to-the-npm-executable)
+* [How to Dockerize a Django Application](https://medium.com/backticks-tildes/how-to-dockerize-a-django-application-a42df0cb0a99)
+* [Docker python django tutorial. Dockerize a Python django App in 3 minutes.](https://dockerize.io/guides/python-django-guide)
+* [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
+* [How to Dockerize Django in 5 minutes](https://justdjango.com/blog/django-docker-tutorial)
+* [Dockerizing a Django app](https://blog.logrocket.com/dockerizing-django-app/)
+* [Dockerizing a Python Django Web Application](https://semaphoreci.com/community/tutorials/dockerizing-a-python-django-web-application)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
