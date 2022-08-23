@@ -222,7 +222,7 @@ We can now build this image in a simple way running the followind command
 docker build -t tailwindsccs:latest .
 ```
 
-Note that strapicatbookstore is the name of the image, and using :1.1 can be anything like an example docker build -t strapicatbookstore:1.1 .
+Note that tailwindsccs is the name of the image, and using :latest can be anything like an example docker build -t tailwindsccs:latest .
 
 This will create an image called tailwindsccs and be version latest
 
