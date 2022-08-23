@@ -15,6 +15,7 @@ ENV PYTHONUNBUFFERED 1
 
 # install dependencies  
 RUN pip install --upgrade pip  
+#RUN pip install sip
 
 # copy whole project to your docker home directory. 
 COPY . $DockerHOME  
